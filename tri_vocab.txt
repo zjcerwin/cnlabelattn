@@ -1,0 +1,40 @@
+special_token_size	3
+token_size	33
+singleton_size	-53
+singleton_max_count	1
+0	*PAD*	1
+1	*UNK*	1
+2	*ROOT*	1
+3	attack	1543
+4	transport	721
+5	die	597
+6	meet	293
+7	elect	183
+8	end-position	212
+9	injure	142
+10	transfer-money	185
+11	phone-write	123
+12	trial-hearing	109
+13	charge-indict	107
+14	start-position	119
+15	transfer-ownership	127
+16	sentence	98
+17	arrest-jail	88
+18	marry	83
+19	demonstrate	81
+20	convict	76
+21	sue	76
+22	be-born	50
+23	release-parole	47
+24	declare-bankruptcy	43
+25	end-org	37
+26	appeal	43
+27	start-org	47
+28	fine	28
+29	divorce	29
+30	execute	21
+31	merge-org	14
+32	nominate	12
+33	extradite	7
+34	acquit	6
+35	pardon	2

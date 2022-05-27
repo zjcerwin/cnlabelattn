@@ -1,0 +1,35 @@
+special_token_size	3
+token_size	28
+singleton_size	-55
+singleton_max_count	1
+0	*PAD*	1
+1	*UNK*	1
+2	*ROOT*	1
+3	place	1120
+4	time	1104
+5	entity	877
+6	artifact	737
+7	attacker	709
+8	victim	654
+9	person	682
+10	destination	572
+11	target	501
+12	agent	429
+13	defendant	376
+14	instrument	308
+15	crime	259
+16	origin	182
+17	position	140
+18	org	124
+19	giver	132
+20	recipient	137
+21	buyer	104
+22	adjudicator	101
+23	vehicle	86
+24	money	87
+25	sentence	77
+26	plaintiff	83
+27	seller	45
+28	prosecutor	27
+29	beneficiary	30
+30	price	12
